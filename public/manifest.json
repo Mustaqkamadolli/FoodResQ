@@ -1,0 +1,17 @@
+{
+  "name": "FoodResQ - Community Food Rescue",
+  "short_name": "FoodResQ",
+  "description": "Connecting surplus food from weddings, caterers, and restaurants with NGOs and people in need.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFBF5",
+  "theme_color": "#10B981",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#064E3B" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#grad)" />
+  <circle cx="256" cy="256" r="140" fill="#FFFBF5" opacity="0.95" />
+  <!-- Bowl and Steam -->
+  <path d="M160 260 C160 320, 352 320, 352 260 Z" fill="#10B981" />
+  <path d="M140 256 C140 250, 372 250, 372 256 C372 262, 140 262, 140 256 Z" fill="#064E3B" />
+  <!-- Heart and Sparkle -->
+  <path d="M256 220 C240 190, 200 200, 200 226 C200 250, 256 280, 256 280 C256 280, 312 250, 312 226 C312 200, 272 190, 256 220 Z" fill="#F97316" />
+  <!-- Subtle 'Q' flourish loop -->
+  <circle cx="340" cy="340" r="18" fill="#F97316" />
+  <path d="M346 346 L366 366" stroke="#FFFBF5" stroke-width="8" stroke-linecap="round" />
+</svg>
