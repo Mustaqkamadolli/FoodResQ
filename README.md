@@ -106,6 +106,6 @@ App will run at: **`http://localhost:3000`**
 
 ## 👨‍💼 Leadership & Civic Coalition
 
-* **Director & Chief Coordinator**: **Mustaq Kamdoli**
+* **Director & Chief Coordinator**: **Mustaq Kamadolli**
 * **Initiative**: FoodResQ Bengaluru Civic Initiative
 * **GitHub**: [@Mustaqkamadolli](https://github.com/Mustaqkamadolli)
